@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time    : 2023/3/17 15:22
-# @Author  : Jianghu
-# @File    : draft7+software.py
-
 import tkinter     # 导入tkinter模块
 
 root = tkinter.Tk()
